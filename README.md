@@ -24,7 +24,6 @@ This repository contains code and resources for training and evaluating image cl
 
 ```bash
 git clone https://github.com/yourusername/vgg16-image-classification.git
-cd vgg16-image-classification
 ```
 
 ### 2. Prepare Dataset
